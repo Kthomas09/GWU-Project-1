@@ -80,6 +80,20 @@ Final Conclusions:
 Sourcing: 
 (David, Suzie) mental_health - https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm, (Cythia, Jen) covid_underscore_death.csv- https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku/data, (Jen, Kent) State_Covid_Data - https://covidtracking.com
 
+Instructors Evaluation: Reed Hyde
+Group Five -- Kent, Cynthia, Jen, Suzie & David:
 
+Well done, one and all. You turned in a strong project that reflected excellent group cohesion, data analysis and time management.
+
+Overall:
+
+Your presentation told a unified story from beginning to end, delivered in exactly the ten minutes allotted.
+Your GitHub repository sets the standard for layout, organization and academic honesty.
+The Jupyter Notebooks are well laid out and cohesive, demonstrating a consistent approach to the required data acquisition, cleaning and analysis tasks.
+Great hand-off between speakers.
+Specific feedback:
+
+Think through the aesthetics and composition of each graph. Make sure the message comes through in the first glance. For example: sort the state bar graph by percentage, make sure the slide title and the graph actually agree (e.g., the title "State Covid-19 Testing" disagrees with the graph legend "xyz Cases of Covid"), and watch that the graph axes agree (e.g., the mental health graphs compare year over year not day over day).
+Review the interpretation of the R^2 statistic, which ranges from 0 to 1. Values close to zero indicate no correlation.
  
 
